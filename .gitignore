@@ -14,8 +14,6 @@ coverage/
 npm-debug.log*
 
 # Environment variables and secrets
-.env
-.env.*
 !.env.example
 
 # Logs
@@ -27,5 +25,5 @@ logs/
 Thumbs.db
 
 # Editors
-.vscode/
 .idea/
+config.bat
